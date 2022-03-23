@@ -1917,11 +1917,11 @@ a:hover {
 }
 
 .de_light a {
-    color: #888;
+    color: #fff;
 }
 
 .de_light a:hover {
-    color: #555;
+    color: #d698be;
 }
 
 .btn-line,
